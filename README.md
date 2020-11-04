@@ -1,4 +1,4 @@
 Bird Watching
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+建立这本电子书的目的是为了方便新人入门观鸟.互联网一些关于观鸟的一些资料在这里做一个收集和整理。
 
