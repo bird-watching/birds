@@ -10,9 +10,19 @@
 
 * ## 寻找中华凤头燕鸥：陈水华
 
-##    ![](/assets/寻找中华凤头燕鸥.jpg)
+## ![](/assets/寻找中华凤头燕鸥.jpg)
 
-     播放地址：[https://yixi.tv/h5/speech/137/](https://yixi.tv/h5/speech/137/)
+```
+ 播放地址：[https://yixi.tv/h5/speech/137/](https://yixi.tv/h5/speech/137/)
+```
+
+* # 刘阳：鸟类择偶指南
+
+#     ![](/assets/择偶.jpg)
+
+######     播放地址：[https://new.qq.com/omn/DXI20200/DXI2020021600549500.html](https://new.qq.com/omn/DXI20200/DXI2020021600549500.html)
+
+###### 
 
 * ## 空中大迁徙：邹发生![](/assets/空中大迁徙.jpg)
 
