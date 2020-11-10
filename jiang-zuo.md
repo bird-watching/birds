@@ -18,9 +18,9 @@
 
 * # 刘阳：鸟类择偶指南
 
-#     ![](/assets/择偶.jpg)
+# ![](/assets/择偶.jpg)
 
-######     播放地址：[https://new.qq.com/omn/DXI20200/DXI2020021600549500.html](https://new.qq.com/omn/DXI20200/DXI2020021600549500.html)
+###### 播放地址：[https://new.qq.com/omn/DXI20200/DXI2020021600549500.html](https://new.qq.com/omn/DXI20200/DXI2020021600549500.html)
 
 ###### 
 
