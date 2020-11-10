@@ -6,7 +6,7 @@
 
   ![](/assets/鸟和蜜蜂.jpg)
 
-        播放地址：[https://v.qq.com/x/cover/1jv433683n9m5h4/u0146jlatpo.html](https://v.qq.com/x/cover/1jv433683n9m5h4/u0146jlatpo.html)
+        播放地址：[https://v.qq.com/x/page/g316306akmi.html](https://v.qq.com/x/page/g316306akmi.html)
 
 * ## 空中大迁徙：邹发生![](/assets/空中大迁徙.jpg)
 
