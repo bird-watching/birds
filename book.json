@@ -31,5 +31,8 @@
     },
     "plugins": ["-search", "search-pro"],
     "title": "Sample GitBook",
+    "styles": {
+        "website": "styles/website.css"
+    },
     "variables": {}
 }
