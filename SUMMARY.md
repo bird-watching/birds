@@ -3,7 +3,6 @@
 * [简介](README.md)
 * [新人入门](xin-ren-ru-men.md)
 * [图鉴](tu-jian.md)
-  * [test](tu-jian/test.md)
   * [abbc](tu-jian/abbc.md)
 * [讲座](jiang-zuo.md)
   * [技术讲座](jiang-zuo/ji-zhu-jiang-zuo.md)
