@@ -9,4 +9,5 @@
 * [经典文章](jing-dian-wen-zhang.md)
 * [电影纪录片](dian-ying-ji-lu-pian.md)
 * [软件推荐](ruan-jian-tui-jian.md)
+* 加入志愿者
 
