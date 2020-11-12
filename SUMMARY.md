@@ -8,6 +8,8 @@
   * [观鸟文化讲座](jiang-zuo/guan-niao-wen-hua-jiang-zuo.md)
 * [经典文章](jing-dian-wen-zhang.md)
 * [电影纪录片](dian-ying-ji-lu-pian.md)
+  * [电影](dian-ying-ji-lu-pian/dian-ying.md)
+  * 纪录片
 * [软件推荐](ruan-jian-tui-jian.md)
 * [加入志愿者](jia-ru-zhi-yuan-zhe.md)
 
