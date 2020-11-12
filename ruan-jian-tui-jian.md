@@ -8,9 +8,7 @@
 
 用途：记录观鸟数据，查看各地鸟种数据。
 
-
-
-* **《中国鸟类野外手册》PDA版**
+* ## **《中国鸟类野外手册》PDA版**
 
 网址：[http://www.cnbird.org.cn/shouce/c.asp.htm](http://www.cnbird.org.cn/shouce/c.asp.htm)
 
