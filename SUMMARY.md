@@ -2,7 +2,7 @@
 
 * [简介](README.md)
 * [新人入门](xin-ren-ru-men.md)
-* [图鉴](tu-jian.md)
+* [经典图鉴](tu-jian.md)
 * [讲座](jiang-zuo.md)
   * [技术讲座](jiang-zuo/ji-zhu-jiang-zuo.md)
   * [观鸟文化讲座](jiang-zuo/guan-niao-wen-hua-jiang-zuo.md)
