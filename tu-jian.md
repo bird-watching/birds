@@ -26,5 +26,17 @@
 
 链接：[https://book.douban.com/subject/30270084/](https://book.douban.com/subject/30270084/)
 
+* # 猛禽觀察圖鑑
+
+简介：台湾手绘图鉴，对猛禽识别水平提升有较大帮助。
+
+链接：[https://book.douban.com/subject/1926155/](https://book.douban.com/subject/1926155/)
+
+* # 上海水鸟
+
+简介：对于东部水鸟识别有较大帮助。
+
+链接：[https://book.douban.com/subject/3065535/](https://book.douban.com/subject/3065535/)
+
 
 
