@@ -10,5 +10,13 @@
 
 链接：[https://www.bilibili.com/video/BV1YT4y1F7rA](https://www.bilibili.com/video/BV1YT4y1F7rA)
 
+* # 中国东部猛禽识别（2020.03.14）
+
+下载“千聊”APP，搜索“东部猛禽”即可。主讲人：张鹏。
+
+* # 2019年春季迁徙猛禽观赏与辨别培训（2019.04.20）
+
+下载“千聊”APP，搜索“春季迁徙猛禽”即可。来自重庆观鸟会。
+
 
 
