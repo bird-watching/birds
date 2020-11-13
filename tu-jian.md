@@ -38,5 +38,17 @@
 
 链接：[https://book.douban.com/subject/3065535/](https://book.douban.com/subject/3065535/)
 
+* # 欧类识别手册
+
+简介：日本手绘图鉴，氏原巨雄/氏原道昭， 图版清晰，思路清晰，辨别标准明了。
+
+链接：[https://book.douban.com/subject/27097566/](https://book.douban.com/subject/27097566/)
+
+* # 日本のカモ識別図鑑 {#subject_tpc}
+
+推荐理由：鸭宝书，氏原巨雄/氏原道昭，据说正在翻译中，可能不久国内可以买到。
+
+链接：[http://www.shwbs.org/swb/read.php?tid=9084](http://www.shwbs.org/swb/read.php?tid=9084)
+
 
 
