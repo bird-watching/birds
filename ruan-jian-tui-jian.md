@@ -38,6 +38,10 @@
 
 用途：查询和搜索鸟类鸣叫，优点可以离线下载。
 
+* # APP mockingbird
+
+用途：查看鸟类及鸣叫，优势可以离线使用，有1G的数据包。
+
 * ## 中国野鸟图库
 
 网址：[http://www.cnbird.org.cn/first\_pc.html](http://www.cnbird.org.cn/first_pc.html)
