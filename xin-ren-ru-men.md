@@ -36,13 +36,13 @@
 
 推荐阅读老丢老师的《四十招玩转观鸟会》，风趣，详尽，初级入门者必看啊。
 
-链接：https://pan.baidu.com/s/1L42aCu\_nqxadkI6RN7nFKQ 
+链接：[https://pan.baidu.com/s/1L42aCu\_nqxadkI6RN7nFKQ](https://pan.baidu.com/s/1L42aCu_nqxadkI6RN7nFKQ)
 
-提取码：iato 
+提取码：iato
 
 * # 如何让孩子爱上观鸟？
 
-家长自己先爱上观鸟，带着孩子一起多参加活动。
+家长自己先爱上观鸟，带着孩子一起多参加观鸟活动。
 
 * # 如何挑选望远镜？
 
