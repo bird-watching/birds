@@ -6,7 +6,11 @@
 
 * 互联网一些关于观鸟的一些资料比较杂乱，在这里做一个收集和整理。
 
-* 定期更新内容，大家可以直接访问[https://yangweixiang.github.io/。](https://yangweixiang.github.io/。)
+* 定期更新内容。
+
+      网页访问:
+
+      直接下载pdf ：[https://pan.baidu.com/s/1gZqmI8j9oRHOwA1xVGy6wA](https://pan.baidu.com/s/1gZqmI8j9oRHOwA1xVGy6wA) 提取码：m1zd 
 
 * 欢迎有兴趣的同学加入。
 
