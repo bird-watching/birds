@@ -18,5 +18,9 @@
 
 下载“千聊”APP，搜索“春季迁徙猛禽”即可。来自重庆观鸟会。
 
+* # 观鸟入门课六讲（2016.09 武汉观鸟会\)
+
+链接：[https://v.youku.com/v\_show/id\_XMTc2MDE2MTgxNg==.html?spm=a2hbt.13141534.app.5~5!2~5!2~5~5~5!2~5~5!2~5!2~5!2~5~5!3~A](https://v.youku.com/v_show/id_XMTc2MDE2MTgxNg==.html?spm=a2hbt.13141534.app.5~5!2~5!2~5~5~5!2~5~5!2~5!2~5!2~5~5!3~A)
+
 
 
