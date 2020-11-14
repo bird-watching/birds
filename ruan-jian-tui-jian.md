@@ -26,6 +26,12 @@
 
 用途：查看鸟类信息，图片识别鸟类。
 
+* # APP eBird
+
+网址：进入各平台APP下载中心，搜索eBird 下载即可。
+
+优点：方便的野外记录方式，可离线运作。随身的个人记录和统计。
+
 * ## APP Wren
 
 网址：进入各平台APP下载中心，搜索Wren 下载即可。
@@ -38,11 +44,15 @@
 
 用途：查询各地鸟友拍摄的图片。可以搜索。
 
+* # 鸟类爱好者梦幻数据库
+
+网址：[https://birdsoftheworld.org/bow/home](https://birdsoftheworld.org/bow/home)
+
+用途：在线图册，由两大巨头“世界鸟类手册”网站和康奈尔大学鸟类实验室的“世界鸟类”网站合并的成果。
+
 * ## 台湾猛禽研究会
 
 网址：[http://www.raptor.org.tw/](http://www.raptor.org.tw/)
 
 用途：猛禽爱好者可以关注一下。
-
-
 
