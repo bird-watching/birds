@@ -11,5 +11,4 @@
   * [纪录片](dian-ying-ji-lu-pian/ji-lu-pian.md)
 * [软件推荐](ruan-jian-tui-jian.md)
 * [其他资料](qi-ta-zi-liao.md)
-* [加入志愿者](jia-ru-zhi-yuan-zhe.md)
 
