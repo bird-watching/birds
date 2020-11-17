@@ -10,9 +10,9 @@
 
 * 定期更新内容。两种方式访问：
 
-        1.网址：[https://bird-watching.github.io/](https://bird-watching.github.io/)
+    1.网址：[https://bird-watching.github.io/](https://bird-watching.github.io/)
 
-        2.直接下载PDF版本：[https://pan.baidu.com/s/1gZqmI8j9oRHOwA1xVGy6wA](https://pan.baidu.com/s/1gZqmI8j9oRHOwA1xVGy6wA) 提取码：m1zd
+    2.直接下载PDF版本：[https://pan.baidu.com/s/1gZqmI8j9oRHOwA1xVGy6wA](https://pan.baidu.com/s/1gZqmI8j9oRHOwA1xVGy6wA) 提取码：m1zd
 
 * 欢迎有兴趣的同学加入QQ群\(1157462884\), 也可以直接私信微博（老渔翁birdwatching）。
 
