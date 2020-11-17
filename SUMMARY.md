@@ -10,5 +10,6 @@
   * [电影](dian-ying-ji-lu-pian/dian-ying.md)
   * [纪录片](dian-ying-ji-lu-pian/ji-lu-pian.md)
 * [软件推荐](ruan-jian-tui-jian.md)
+* [书籍与杂志](shu-ji-yu-za-zhi.md)
 * [其他资料](qi-ta-zi-liao.md)
 
