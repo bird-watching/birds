@@ -30,7 +30,7 @@
         "paperSize": "a4"
     },
     "plugins": ["-search", "pageview-count","search-pro"],
-    "title": "Sample GitBook",
+    "title": "bird watching",
     "styles": {
         "website": "styles/website.css"
     },
