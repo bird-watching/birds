@@ -12,4 +12,5 @@
 * [软件推荐](ruan-jian-tui-jian.md)
 * [书籍与杂志](shu-ji-yu-za-zhi.md)
 * [其他资料](qi-ta-zi-liao.md)
+* [更新历史](geng-xin-li-shi.md)
 
