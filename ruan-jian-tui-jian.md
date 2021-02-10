@@ -14,6 +14,12 @@
 
 ###### 用途：中国鸟类野外手册在线版。
 
+* # 康奈尔鸟类图书馆
+
+网址：[https://www.macaulaylibrary.org/](https://www.macaulaylibrary.org/)
+
+用途：涵盖世界上大部分鸟类的图片，而且不断增加。
+
 * # 鸟类鸣叫网站
 
 网址：[https://www.xeno-canto.org/](https://www.xeno-canto.org/)
