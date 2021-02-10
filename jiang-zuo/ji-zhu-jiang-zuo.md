@@ -2,6 +2,18 @@
 
 ---
 
+* # 鸟类调查方法（2020.12.26）
+
+链接：[https://www.bilibili.com/video/BV1Ni4y1w7vw/?spm\_id\_from=333.788.videocard.0](https://www.bilibili.com/video/BV1Ni4y1w7vw/?spm_id_from=333.788.videocard.0)
+
+* # 鹭类生态（2020.12.23）
+
+链接：[https://www.bilibili.com/video/BV1Rf4y1e7yV](https://www.bilibili.com/video/BV1Rf4y1e7yV)
+
+* # 鸥类的识别（2020.12.06）
+
+链接：[https://www.bilibili.com/video/BV1RK4y15733](https://www.bilibili.com/video/BV1RK4y15733)
+
 * # 上海雁鸭类的生态与识别（2020.11.29）
 
 链接：[https://www.bilibili.com/video/BV17p4y1z7j1](https://www.bilibili.com/video/BV17p4y1z7j1)

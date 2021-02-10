@@ -8,6 +8,12 @@
 
 链接：[https://book.douban.com/subject/1441487/](https://book.douban.com/subject/1441487/)
 
+* # 中国鸟类观察手册
+
+推荐理由：2021年刚出的手绘图鉴，内容新，还有配有鸟类鸣叫。
+
+链接：[https://book.douban.com/subject/35339335/](https://book.douban.com/subject/35339335/)
+
 * # 台湾野鸟手绘图鉴
 
 推荐理由：手绘图鉴，图很精美，鸟种特征的分辨要领详细，非常实用。缺点：大陆鸟种不够全。
@@ -31,6 +37,12 @@
 推荐理由：台湾手绘图鉴，对猛禽识别水平提升有较大帮助。
 
 链接：[https://book.douban.com/subject/1926155/](https://book.douban.com/subject/1926155/)
+
+* # 鸟类行为图鉴
+
+推荐理由：关注鸟类一些特殊的行为，是观鸟进阶必不可少的功课。
+
+链接：[https://book.douban.com/subject/34912230/](https://book.douban.com/subject/34912230/)
 
 * # 上海水鸟
 
