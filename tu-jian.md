@@ -8,13 +8,13 @@
 
 链接：[https://book.douban.com/subject/1441487/](https://book.douban.com/subject/1441487/)
 
-* # 臺灣野鳥手繪圖鑑
+* # 台湾野鸟手绘图鉴
 
 推荐理由：手绘图鉴，图很精美，鸟种特征的分辨要领详细，非常实用。缺点：大陆鸟种不够全。
 
 链接：[https://book.douban.com/subject/26220607/](https://book.douban.com/subject/26220607/)
 
-* # 香港及華南鳥類
+* # 香港及华南鸟类
 
 推荐理由：手绘图鉴，便携。缺点：辨识要点少了一些，无分布图。
 
@@ -26,7 +26,7 @@
 
 链接：[https://book.douban.com/subject/30270084/](https://book.douban.com/subject/30270084/)
 
-* # 猛禽觀察圖鑑
+* # 猛禽观察图鉴
 
 推荐理由：台湾手绘图鉴，对猛禽识别水平提升有较大帮助。
 
@@ -38,7 +38,7 @@
 
 链接：[https://book.douban.com/subject/3065535/](https://book.douban.com/subject/3065535/)
 
-* # 欧类识别手册
+* # 鸥类识别手册
 
 推荐理由：日本手绘图鉴，氏原巨雄/氏原道昭， 图版清晰，思路清晰，辨别标准明了。
 
